@@ -103,15 +103,18 @@ Desktop application built with Python Tkinter that evaluates password validity a
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=namanjainb3-tech&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namanjainb3-tech&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=namanjainb3-tech&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=namanjainb3-tech&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namanjainb3-tech&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namanjainb3-tech&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
