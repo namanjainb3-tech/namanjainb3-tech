@@ -124,11 +124,11 @@ https://github.com/namanjainb3-tech
 
 ### LinkedIn
 
-[Add Your LinkedIn Profile Link Here]
+www.linkedin.com/in/naman-jain123
 
 ### Email
 
-[Add Your Professional Email Here]
+namanjainb3@gmail.com
 
 ---
 
