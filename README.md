@@ -69,10 +69,6 @@ My focus is on building scalable applications, exploring AI-powered systems, and
 
 End-to-end AI Avatar Generation Pipeline capable of generating realistic talking avatars using AI-driven video synthesis and voice technologies.
 
-### 🛒 Smart Procurement System
-
-AI-inspired procurement optimization platform that analyzes purchase requirements and identifies the most cost-effective purchasing strategy across multiple e-commerce platforms.
-
 ### 🎬 Movie Explorer
 
 React-based movie discovery platform powered by TMDB API featuring search, filtering, favorites management, and dark mode support.
